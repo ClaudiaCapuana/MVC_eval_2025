@@ -1,9 +1,6 @@
- <body class="bg-gray-800 text-white font-sans">
-    <!-- Header -->
-    <header
+ <header
       class="bg-gray-900 shadow-lg relative top-8"
-      x-data="{ open: false, loggedIn: true, userMenuOpen: false }"
-    >
+      x-data="{ open: false, loggedIn: true, userMenuOpen: false }">
       <nav
         class="container mx-auto px-4 py-4 mb-16 flex justify-between items-center"
       >
