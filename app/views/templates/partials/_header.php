@@ -5,7 +5,7 @@
         class="container mx-auto px-4 py-4 mb-16 flex justify-between items-center"
       >
         <div class="flex items-center">
-          <a href="#">
+          <a href="?">
             <img
               src="images/Logo_RetroMonsters.png"
               alt="RetroMonsters Logo"
@@ -13,7 +13,7 @@
               style="top: -28px"
             />
           </a>
-          <a href="#" class="text-white font-bold text-xl hidden"
+          <a href="?" class="text-white font-bold text-xl hidden"
             >RetroMonsters</a
           >
         </div>
@@ -25,7 +25,7 @@
         <div class="hidden md:flex items-center">
           <a
             class="text-gray-300 hover:text-white px-3 py-2 hover:bg-gray-700"
-            href="#"
+            href="?monsters"
             >Monstres</a
           >
           <a
@@ -87,7 +87,7 @@
       <div x-show="open" class="md:hidden p-8">
         <a
           class="block bg-gray-900 text-white px-4 py-2 hover:bg-gray-700"
-          href="#"
+          href="?monsters"
           >Monstres</a
         >
         <a
