@@ -36,7 +36,7 @@
             </div>
             <div class="text-center">
                 <a
-                href="monster.html"
+                href="?monsters=show&id=<?php echo $monster['monster_id'] ?>"
                 class="inline-block text-white bg-red-500 hover:bg-red-700 rounded-full px-4 py-2 transition-colors duration-300"
                 >Plus de détails</a
                 >

@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-  <body class="bg-gray-800 text-white font-sans">
-    <!-- Header -->
-
-    <!-- Main Content -->
-    <div class="container mx-auto flex flex-wrap pt-4 pb-12">
-      <main class="w-full md:w-3/4 p-4">
-        <div class="container mx-auto pb-12">
+ <div class="container mx-auto pb-12">
           <div class="flex flex-wrap justify-center">
             <div class="w-full">
               <div class="bg-gray-700 p-6 rounded-lg shadow-lg">
@@ -43,16 +35,3 @@
             </div>
           </div>
         </div>
-      </main>
-
-      <!-- Sidebar -->
-    </div>
-
-    <!-- Footer -->
-    <footer class="bg-gray-900 text-gray-300 py-8">
-      <div class="container mx-auto text-center">
-        <p>&copy; 2024 RetroMonsters. Tous droits réservés.</p>
-      </div>
-    </footer>
-  </body>
-</html>
