@@ -8,6 +8,7 @@ if (isset($_GET['monsters'])):
    
 
 else:
-   $content ="";
+   include '../app/controllers/pagesController.php';
+   \App\Controllers\PagesController\homeAction($connexion);
    
 endif;
